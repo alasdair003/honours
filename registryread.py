@@ -3,10 +3,10 @@ import winreg
 
 def read_registry_value(hive, subkey, value_name):
     try:
-        # Open the registry key
+        # Open registry key
         key = winreg.OpenKey(hive, subkey)
         
-        # Read the registry value
+        # Read registry value
         value, data_type = winreg.QueryValueEx(key, value_name)
         
         # Print the result
@@ -19,6 +19,8 @@ def read_registry_value(hive, subkey, value_name):
 
 # Specify the registry path and value name
 hive = winreg.HKEY_LOCAL_MACHINE
+
+# Set the desired value to EnableLUA
 subkey = r"SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System"
 value_name = "EnableLUA"
 
