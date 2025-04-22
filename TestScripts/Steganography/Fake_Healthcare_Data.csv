@@ -1,0 +1,101 @@
+Patient ID,First Name,Last Name,Age,Gender,City,Medical Condition,Medication,Last Visit,Insurance,Cost
+605333,David,Wilson,86,Male,San Diego,Stroke,Insulin,10/7/2023,Medicaid,144.89
+873022,Fiona,Smith,45,Other,San Jose,Depression,Omeprazole,7/17/2023,Uninsured,515.83
+364064,Emma,Jones,75,Male,New York,Arthritis,Insulin,5/7/2023,Medicaid,341.14
+550312,Charlie,Jones,76,Other,Dallas,Heart Disease,Lisinopril,1/16/2023,Uninsured,824.19
+849808,Ian,Wilson,78,Other,San Antonio,Heart Disease,Amlodipine,3/27/2023,Uninsured,708.44
+446726,Charlie,Miller,71,Other,San Diego,Stroke,Sertraline,12/2/2023,Uninsured,474.74
+312841,George,Smith,82,Other,New York,Cancer,Simvastatin,4/12/2023,Medicaid,444.27
+464030,George,Rodriguez,84,Female,Chicago,Depression,Omeprazole,4/17/2023,Medicaid,258.34
+621450,Ian,Davis,89,Female,San Diego,Stroke,Simvastatin,5/11/2023,Private,971.02
+728017,Jane,Smith,77,Male,Chicago,Diabetes,Simvastatin,6/5/2023,Uninsured,502.01
+909000,Jane,Miller,43,Female,New York,Hypertension,Lisinopril,4/4/2023,Uninsured,712.03
+988550,Jane,Davis,48,Other,Dallas,Cancer,Atorvastatin,8/16/2023,Uninsured,92.97
+275948,Alice,Davis,73,Other,San Antonio,Heart Disease,Omeprazole,7/3/2023,Medicaid,462.54
+412496,Emma,Miller,64,Female,Chicago,Heart Disease,Simvastatin,2/13/2023,Medicaid,89.48
+121778,Bob,Davis,62,Male,Dallas,Obesity,Omeprazole,1/20/2023,Uninsured,386.52
+519534,Alice,Wilson,60,Female,Dallas,Arthritis,Warfarin,12/28/2023,Uninsured,345.13
+724803,Emma,Jones,66,Male,Phoenix,COPD,Warfarin,3/13/2023,Private,995.45
+462637,Emma,Smith,29,Other,San Jose,COPD,Sertraline,1/7/2023,Medicare,973.4
+901197,George,Rodriguez,44,Male,Dallas,Hypertension,Omeprazole,5/1/2023,Uninsured,368.39
+329669,Charlie,Johnson,70,Male,Houston,COPD,Simvastatin,2/22/2023,Uninsured,393.98
+745310,David,Wilson,21,Male,New York,COPD,Amlodipine,1/25/2023,Private,626.98
+443685,Alice,Brown,56,Other,Phoenix,Asthma,Warfarin,4/16/2023,Medicaid,196.83
+487350,David,Garcia,31,Other,Los Angeles,Depression,Warfarin,1/13/2023,Medicaid,718.92
+777063,Jane,Rodriguez,85,Other,Chicago,Stroke,Metformin,5/9/2023,Medicare,832.24
+701608,Fiona,Smith,64,Other,Dallas,Stroke,Albuterol,5/19/2023,Medicare,75.14
+220013,Alice,Jones,68,Other,San Antonio,Depression,Simvastatin,2/1/2023,Private,330.7
+292487,Charlie,Wilson,56,Female,Dallas,Asthma,Albuterol,9/25/2023,Medicaid,917.9
+277511,Bob,Davis,24,Male,San Jose,Stroke,Warfarin,9/18/2023,Private,705.06
+590477,Hannah,Jones,55,Female,Houston,Depression,Omeprazole,3/26/2023,Private,866.58
+419458,Ian,Miller,45,Other,Los Angeles,Obesity,Omeprazole,3/3/2023,Private,796.82
+850468,George,Williams,81,Female,New York,Heart Disease,Sertraline,8/20/2023,Medicare,738.1
+817093,Jane,Jones,39,Male,Philadelphia,Hypertension,Atorvastatin,2/18/2023,Uninsured,268.11
+518566,George,Jones,79,Male,Dallas,COPD,Atorvastatin,11/14/2023,Uninsured,444.95
+760985,David,Johnson,65,Other,New York,Heart Disease,Amlodipine,12/14/2023,Medicare,986.99
+527641,Charlie,Miller,89,Female,Houston,COPD,Warfarin,5/16/2023,Private,650.12
+388341,Alice,Garcia,73,Other,San Diego,Cancer,Insulin,12/2/2023,Medicare,683.88
+607783,Bob,Jones,67,Other,San Jose,Cancer,Omeprazole,6/2/2023,Medicare,118.67
+117882,David,Miller,78,Male,Phoenix,COPD,Warfarin,9/25/2023,Medicaid,168.22
+118579,Ian,Garcia,50,Female,New York,Asthma,Metformin,2/15/2023,Private,827.03
+229702,Ian,Smith,80,Other,San Antonio,Cancer,Warfarin,6/7/2023,Medicare,785.68
+987813,Bob,Garcia,41,Male,San Antonio,Cancer,Insulin,7/17/2023,Medicare,451.64
+437326,Emma,Brown,86,Other,Los Angeles,Depression,Albuterol,8/27/2023,Medicare,201.16
+528530,Bob,Wilson,36,Female,Philadelphia,Arthritis,Omeprazole,8/15/2023,Medicare,469.24
+155243,Charlie,Williams,89,Female,New York,Stroke,Omeprazole,9/16/2023,Uninsured,667.92
+206798,Charlie,Garcia,59,Male,San Jose,Stroke,Sertraline,5/27/2023,Medicaid,707.55
+406728,Emma,Smith,67,Male,Dallas,Depression,Albuterol,4/9/2023,Uninsured,709.89
+666165,Ian,Rodriguez,60,Male,San Jose,Diabetes,Atorvastatin,6/22/2023,Medicare,688.59
+468908,Emma,Williams,59,Female,New York,Obesity,Lisinopril,4/17/2023,Uninsured,409.07
+699205,Fiona,Garcia,38,Other,San Diego,Stroke,Sertraline,1/1/2023,Private,267.4
+287430,Hannah,Smith,51,Other,Dallas,Stroke,Amlodipine,5/21/2023,Medicaid,478.76
+371772,Charlie,Garcia,34,Male,Phoenix,Depression,Sertraline,3/19/2023,Uninsured,799.28
+385549,Hannah,Jones,70,Other,Phoenix,Cancer,Insulin,5/4/2023,Medicaid,944.42
+372435,Bob,Wilson,25,Male,San Jose,Stroke,Omeprazole,7/17/2023,Medicaid,952.56
+904163,Hannah,Williams,63,Other,Los Angeles,Asthma,Warfarin,6/2/2023,Private,597.39
+714560,Emma,Smith,28,Other,Philadelphia,Diabetes,Atorvastatin,8/22/2023,Private,607.75
+480839,Fiona,Wilson,89,Other,San Jose,Obesity,Warfarin,12/5/2023,Medicaid,556.81
+142170,Ian,Brown,25,Female,New York,Heart Disease,Atorvastatin,6/24/2023,Medicaid,248.27
+115610,Emma,Brown,53,Other,Philadelphia,Diabetes,Metformin,10/22/2023,Uninsured,120.72
+943890,Charlie,Miller,78,Female,Houston,Cancer,Warfarin,9/5/2023,Uninsured,857.78
+460530,George,Brown,70,Male,Houston,Depression,Lisinopril,6/14/2023,Medicare,345.75
+784215,Fiona,Johnson,61,Male,Philadelphia,Asthma,Omeprazole,12/4/2023,Uninsured,507.67
+553946,Charlie,Wilson,41,Male,New York,Asthma,Atorvastatin,10/1/2023,Medicare,525.02
+273377,Emma,Miller,43,Male,San Antonio,Diabetes,Metformin,11/26/2023,Medicaid,499.69
+513781,Jane,Johnson,86,Female,Los Angeles,Depression,Metformin,5/15/2023,Medicare,380.35
+640193,David,Smith,51,Male,Houston,Arthritis,Omeprazole,10/27/2023,Medicare,262.15
+759517,Bob,Garcia,86,Other,Phoenix,Cancer,Insulin,12/13/2023,Medicaid,684.39
+339644,George,Jones,48,Male,Houston,Obesity,Simvastatin,11/5/2023,Uninsured,181.4
+390014,Alice,Brown,31,Female,San Diego,Heart Disease,Insulin,11/16/2023,Uninsured,236.01
+241102,Emma,Jones,83,Other,San Antonio,COPD,Omeprazole,1/5/2023,Uninsured,863.24
+837188,Alice,Johnson,20,Female,Chicago,Cancer,Simvastatin,8/11/2023,Private,968.18
+408969,Bob,Davis,57,Female,San Diego,Arthritis,Atorvastatin,3/23/2023,Medicare,599.92
+421083,Ian,Miller,35,Other,Chicago,Hypertension,Sertraline,5/18/2023,Medicare,142.43
+717864,Hannah,Rodriguez,57,Other,New York,COPD,Amlodipine,3/9/2023,Medicare,969.22
+310310,Ian,Davis,69,Male,Philadelphia,Stroke,Lisinopril,6/28/2023,Uninsured,618.07
+156678,Charlie,Jones,83,Other,San Antonio,COPD,Warfarin,9/24/2023,Medicare,136.77
+404942,Alice,Williams,86,Other,San Jose,Stroke,Lisinopril,2/2/2023,Medicaid,431.66
+875390,Emma,Garcia,33,Female,Houston,Arthritis,Lisinopril,6/21/2023,Medicaid,64.02
+561713,Emma,Garcia,38,Male,Los Angeles,COPD,Simvastatin,6/21/2023,Medicare,897.6
+419646,Charlie,Williams,60,Male,New York,Cancer,Insulin,8/20/2023,Medicare,270.54
+497026,Hannah,Wilson,75,Other,San Diego,Asthma,Insulin,5/11/2023,Private,947.42
+914709,Bob,Brown,20,Male,San Antonio,Hypertension,Atorvastatin,2/26/2023,Private,449.5
+791594,Emma,Smith,21,Other,Phoenix,COPD,Atorvastatin,8/24/2023,Medicaid,953.27
+486184,Jane,Wilson,35,Other,San Antonio,Obesity,Lisinopril,9/26/2023,Private,291.41
+411491,Hannah,Williams,87,Male,San Diego,Hypertension,Atorvastatin,7/6/2023,Uninsured,310.89
+596190,Charlie,Davis,22,Female,Los Angeles,Cancer,Omeprazole,5/13/2023,Medicare,90.38
+842826,Bob,Johnson,80,Female,Philadelphia,Stroke,Albuterol,10/22/2023,Medicaid,846.54
+414074,Fiona,Wilson,65,Other,Houston,Asthma,Atorvastatin,1/23/2023,Private,410.27
+726486,Alice,Williams,78,Female,Chicago,Asthma,Warfarin,2/26/2023,Medicaid,399.86
+589702,Charlie,Johnson,47,Male,Phoenix,Hypertension,Sertraline,9/8/2023,Private,84.94
+228504,Fiona,Brown,69,Female,San Diego,Stroke,Amlodipine,8/8/2023,Uninsured,759.98
+464103,Bob,Rodriguez,43,Other,San Diego,Arthritis,Omeprazole,12/21/2023,Uninsured,314.52
+749275,Charlie,Wilson,35,Female,Phoenix,Hypertension,Warfarin,2/14/2023,Private,110.69
+153093,Hannah,Jones,20,Male,San Jose,Cancer,Sertraline,7/15/2023,Uninsured,444.14
+904670,Jane,Rodriguez,66,Male,Houston,Cancer,Insulin,8/23/2023,Medicare,925.12
+191230,Fiona,Jones,51,Female,New York,Heart Disease,Lisinopril,3/21/2023,Private,450.84
+192632,Jane,Miller,72,Other,San Antonio,Depression,Omeprazole,6/18/2023,Uninsured,571.91
+922401,Fiona,Garcia,41,Other,Los Angeles,Cancer,Insulin,5/25/2023,Uninsured,780.91
+721131,Jane,Jones,24,Male,Chicago,Obesity,Sertraline,9/28/2023,Uninsured,327.45
+185387,Jane,Williams,31,Other,Phoenix,Stroke,Warfarin,3/1/2023,Uninsured,248.28
+161473,Fiona,Garcia,68,Female,San Diego,Stroke,Lisinopril,7/23/2023,Uninsured,771.8
